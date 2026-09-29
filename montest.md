@@ -1,2 +1,3 @@
 ## Hello World !
-Je voudrais qu'on parle du merge
+Je ne voudrais pas qu'on parle du merge.
+C'est un super TP !!
